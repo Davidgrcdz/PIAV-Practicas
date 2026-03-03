@@ -1,6 +1,6 @@
-# 👁️‍🗨️ Procesamiento de Imágenes y Audio/Vídeo (PIAV)
+# 👁️‍🗨️ Multimedia Processing (Imagen, Audio y Vídeo)
 
-Bienvenido a mi repositorio de **PIAV**. En este espacio recojo todos los proyectos, ejercicios y *notebooks* desarrollados para aprender y aplicar técnicas de visión artificial, procesamiento de señales y análisis multimedia.
+Bienvenido a mi repositorio de **Procesamiento Multimedia**. En este espacio recojo todos los proyectos, ejercicios y *notebooks* desarrollados para aprender y aplicar técnicas de visión artificial, procesamiento de señales y análisis multimedia.
 
 ## 🚀 Contenido del Repositorio
 
