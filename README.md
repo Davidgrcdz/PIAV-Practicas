@@ -36,16 +36,6 @@ El proyecto está estructurado de manera progresiva a través de 7 prácticas pr
 
 ---
 
-## 🌟 Entregas Especiales
-
-### 🧊 Entrega: Clase de Profundidad (Depth y Visión Estéreo)
-[`/EntregaClaseProfundidad`](./EntregaClaseProfundidad)
-* **Descripción:** Proyecto especial enfocado en la estimación de profundidad. Trata sobre cómo la visión por computador puede extraer información tridimensional (mapas de profundidad/disparidad) a partir de cámaras estéreo o sensores específicos, permitiendo entender la estructura espacial de una escena.
-
-*(Nota: En la carpeta `/videos` se encuentran los recursos multimedia utilizados para las pruebas de tracking y movimiento).*
-
----
-
 ## 🛠️ Stack Tecnológico
 Todo el código está desarrollado para ser fácil de seguir y replicar. Las herramientas principales utilizadas en este repositorio son:
 * **Python** como lenguaje principal.
